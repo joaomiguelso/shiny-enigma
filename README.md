@@ -1,1 +1,3 @@
 # shiny-enigma
+
+built a todo app in which the server will be in Golang, the database will be MongoDB, and the frontend will be in React.
